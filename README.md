@@ -1,4 +1,5 @@
 # spam_filtering
+### Please read the [report](report.pdf) for an indepth explanation and discsuion about this research and implementation.
 
 ### How to use:
 - Download all ham data from Enron dataset and extract into `ham` folder
