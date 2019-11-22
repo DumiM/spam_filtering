@@ -1,4 +1,4 @@
-# spam_filtering
+# Improving Spam Classification performance in real-life situations
 ### Please read the [report](report.pdf) for an indepth explanation and discsuion about this research and implementation.
 
 ### How to use:
